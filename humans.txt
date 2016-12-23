@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Viviane Ehrensberger -- Design
+    Sybil Ehrensberger -- Implementation
+
+# THANKS
+
+    Flurina Badel -- Rumantsch content
+    Michael Arnold -- Photography
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Bootstrap, jQuery, Modernizr

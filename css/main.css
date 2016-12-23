@@ -1,0 +1,80 @@
+.container {
+  font-family: Georgia;
+  color: white;
+}
+
+.browserupgrade {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+#carousel-background .carousel-item img {
+  object-fit: cover;
+  object-position: 50% 10%;
+  height: 100vh;
+  width: 100vw;
+}
+
+body.color-background {
+  background-color: rgb(88, 206, 184);
+}
+
+.navbar.navigation {
+  font-family: Georgia;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 0;
+}
+
+.navigation .navbar-nav {
+  height: 60px;
+}
+
+.navigation .navbar-brand {
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-size: 36px;
+  color: rgb(88, 206, 184);
+}
+
+.navigation a.nav-item {
+  color: rgb(88, 206, 184);
+  font-size: 18px;
+  line-height: 60px;
+  letter-spacing: 2px;
+  margin-left: 30px !important;
+}
+
+.navigation a.nav-item.active {
+  font-weight: bold;
+}
+
+@media (max-width: 543px) { 
+  
+  .navigation .container {
+    padding: 0;
+  }
+  
+  .navigation .navbar-nav {
+    height: 30px;
+  }
+
+  .navigation .navbar-brand {
+    font-size: 20px;
+    letter-spacing: 0.5px;
+  }
+  
+  .navigation a.nav-item {
+    letter-spacing: 0.5px;
+    font-size: 16px;
+    line-height: 30px;
+    margin-left: 10px !important;
+  }
+
+}
+
+p a {
+  color: white;
+  text-decoration: underline;
+}
