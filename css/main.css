@@ -84,6 +84,11 @@ body.color-background {
   color: rgb(88, 206, 184);
 }
 
+.container h4 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
 p a {
   color: white;
   text-decoration: underline;
