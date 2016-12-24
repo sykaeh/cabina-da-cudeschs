@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Viviane Ehrensberger -- Design
+    Viviane Ehrensberger -- Design and content
     Sybil Ehrensberger -- Implementation
 
 # THANKS

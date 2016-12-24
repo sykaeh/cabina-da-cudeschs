@@ -74,6 +74,16 @@ body.color-background {
 
 }
 
+.events {
+  position: absolute;
+  top: 200px;
+  right: 100px;
+  padding: 10px 20px;
+  font-family: Georgia;
+  background-color: rgba(255, 255, 255, 0.8);
+  color: rgb(88, 206, 184);
+}
+
 p a {
   color: white;
   text-decoration: underline;
